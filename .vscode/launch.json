@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\express_basic_auth_password_hashing\\app.js"
+            "program": "${workspaceFolder}\\express_router\\app.js"
         }
     ]
 }
